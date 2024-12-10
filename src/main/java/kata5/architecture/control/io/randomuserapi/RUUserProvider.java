@@ -3,8 +3,8 @@ package kata5.architecture.control.io.randomuserapi;
 import com.google.gson.Gson;
 import kata5.architecture.control.io.Provider;
 import kata5.architecture.control.io.UserAdapter;
-import kata5.architecture.control.pojo.pojo.RUResponse;
-import kata5.architecture.control.pojo.pojo.RUUser;
+import kata5.architecture.control.pojo.randomuserapi.RUResponse;
+import kata5.architecture.control.pojo.randomuserapi.RUUser;
 import kata5.architecture.model.User;
 import org.jsoup.Jsoup;
 

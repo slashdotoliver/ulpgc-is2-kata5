@@ -1,7 +1,7 @@
 package kata5.architecture.control.io.randomuserapi;
 
 import kata5.architecture.control.io.UserAdapter;
-import kata5.architecture.control.pojo.pojo.RUUser;
+import kata5.architecture.control.pojo.randomuserapi.RUUser;
 import kata5.architecture.model.User;
 
 import java.net.URI;

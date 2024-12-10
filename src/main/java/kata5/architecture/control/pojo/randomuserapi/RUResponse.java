@@ -1,4 +1,4 @@
-package kata5.architecture.control.pojo.pojo;
+package kata5.architecture.control.pojo.randomuserapi;
 
 import java.util.List;
 
