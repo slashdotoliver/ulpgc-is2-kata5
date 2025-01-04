@@ -1,10 +1,10 @@
-package kata5.architecture.control.commands;
+package es.ulpgc.kata5.architecture.control.commands;
 
-import kata5.architecture.control.io.Provider;
-import kata5.architecture.control.io.randomuserapi.RUImageProvider;
-import kata5.architecture.control.io.randomuserapi.RUUserProvider;
-import kata5.architecture.model.User;
-import kata5.architecture.view.UserDisplay;
+import es.ulpgc.kata5.architecture.control.io.Provider;
+import es.ulpgc.kata5.architecture.control.io.randomuserapi.RUImageProvider;
+import es.ulpgc.kata5.architecture.control.io.randomuserapi.RUUserProvider;
+import es.ulpgc.kata5.architecture.model.User;
+import es.ulpgc.kata5.architecture.view.UserDisplay;
 
 import java.io.IOException;
 import java.net.URI;

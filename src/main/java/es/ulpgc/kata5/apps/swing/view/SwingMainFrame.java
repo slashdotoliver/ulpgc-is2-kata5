@@ -1,6 +1,6 @@
-package kata5.apps.swing.view;
+package es.ulpgc.kata5.apps.swing.view;
 
-import kata5.architecture.view.UserDisplay;
+import es.ulpgc.kata5.architecture.view.UserDisplay;
 
 import javax.swing.*;
 import java.awt.*;

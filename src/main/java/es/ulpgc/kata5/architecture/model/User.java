@@ -1,4 +1,4 @@
-package kata5.architecture.model;
+package es.ulpgc.kata5.architecture.model;
 
 import java.net.URI;
 import java.util.Optional;

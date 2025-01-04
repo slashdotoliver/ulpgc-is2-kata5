@@ -1,6 +1,6 @@
-package kata5.architecture.view;
+package es.ulpgc.kata5.architecture.view;
 
-import kata5.architecture.model.User;
+import es.ulpgc.kata5.architecture.model.User;
 
 public interface UserDisplay {
     void show(User user, byte[] profilePicture);

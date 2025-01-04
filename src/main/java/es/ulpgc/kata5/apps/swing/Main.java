@@ -1,8 +1,8 @@
-package kata5.apps.swing;
+package es.ulpgc.kata5.apps.swing;
 
-import kata5.apps.swing.view.SwingMainFrame;
-import kata5.architecture.control.commands.Command;
-import kata5.architecture.control.commands.DisplayRandomUserCommand;
+import es.ulpgc.kata5.apps.swing.view.SwingMainFrame;
+import es.ulpgc.kata5.architecture.control.commands.Command;
+import es.ulpgc.kata5.architecture.control.commands.DisplayRandomUserCommand;
 
 import java.util.HashMap;
 import java.util.Map;

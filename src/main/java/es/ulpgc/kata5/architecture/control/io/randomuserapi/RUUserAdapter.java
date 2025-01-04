@@ -1,8 +1,8 @@
-package kata5.architecture.control.io.randomuserapi;
+package es.ulpgc.kata5.architecture.control.io.randomuserapi;
 
-import kata5.architecture.control.io.UserAdapter;
-import kata5.architecture.control.pojo.randomuserapi.RUUser;
-import kata5.architecture.model.User;
+import es.ulpgc.kata5.architecture.control.io.UserAdapter;
+import es.ulpgc.kata5.architecture.control.pojo.randomuserapi.RUUser;
+import es.ulpgc.kata5.architecture.model.User;
 
 import java.net.URI;
 import java.net.URISyntaxException;
