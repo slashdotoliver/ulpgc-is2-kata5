@@ -1,4 +1,4 @@
-package es.ulpgc.kata5.architecture.control.pojo.randomuserapi;
+package es.ulpgc.kata5.architecture.data.pojo.randomuserapi;
 
 public record RUUser(
         String gender,

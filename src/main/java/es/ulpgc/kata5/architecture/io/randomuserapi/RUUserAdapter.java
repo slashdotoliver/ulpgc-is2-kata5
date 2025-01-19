@@ -1,7 +1,7 @@
-package es.ulpgc.kata5.architecture.control.io.randomuserapi;
+package es.ulpgc.kata5.architecture.io.randomuserapi;
 
-import es.ulpgc.kata5.architecture.control.io.UserAdapter;
-import es.ulpgc.kata5.architecture.control.pojo.randomuserapi.RUUser;
+import es.ulpgc.kata5.architecture.io.UserAdapter;
+import es.ulpgc.kata5.architecture.data.pojo.randomuserapi.RUUser;
 import es.ulpgc.kata5.architecture.model.User;
 
 import java.net.URI;

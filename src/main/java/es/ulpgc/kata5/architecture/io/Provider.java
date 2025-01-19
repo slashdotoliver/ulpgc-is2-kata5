@@ -1,4 +1,4 @@
-package es.ulpgc.kata5.architecture.control.io;
+package es.ulpgc.kata5.architecture.io;
 
 import java.io.IOException;
 

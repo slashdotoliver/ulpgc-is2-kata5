@@ -1,6 +1,6 @@
-package es.ulpgc.kata5.architecture.control.io.randomuserapi;
+package es.ulpgc.kata5.architecture.io.randomuserapi;
 
-import es.ulpgc.kata5.architecture.control.io.Provider;
+import es.ulpgc.kata5.architecture.io.Provider;
 import org.jsoup.Jsoup;
 
 import java.io.IOException;
